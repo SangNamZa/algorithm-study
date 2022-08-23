@@ -6,7 +6,7 @@
 ## 진행사항
 | 날짜 | 플랫폼 | 문제 | 레벨 | 김민준 | 한석현 | 비고 |
 |---|---|---|:---:|:---:|:---:|---|
-|2022.08.23|프로그래머스|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|1||||
+|2022.08.23|프로그래머스|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|1||[O](HanSeokhyeon/MinimumRectangle.java)||
 |2022.08.24|프로그래머스||1|||스터디|
 |2022.08.25|프로그래머스||1||||
 |2022.08.26|프로그래머스||1||||
