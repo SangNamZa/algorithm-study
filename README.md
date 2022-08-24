@@ -6,7 +6,7 @@
 ## 진행사항
 | 날짜 | 플랫폼 | 문제 | 레벨 | 김민준 | 한석현 | 비고 |
 |---|---|---|:---:|:---:|:---:|---|
-|2022.08.23|프로그래머스|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|1||[O](HanSeokhyeon/MinimumRectangle.java)||
+|2022.08.23|프로그래머스|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|1|[O](MinJunKim/MinimumRectangle.js)|[O](HanSeokhyeon/MinimumRectangle.java)||
 |2022.08.24|프로그래머스|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|1|[O](MinJunKim/Remain1.js)|[O](HanSeokhyeon/Remain1.java)|스터디|
 |2022.08.25|프로그래머스|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|1|[O](MinJunKim/absolute-plus.js)|||
 |2022.08.26|프로그래머스||1||||
