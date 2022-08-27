@@ -12,6 +12,6 @@
 |2022.08.26|프로그래머스|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|1|[틀림](MinJunKim/MBTI.js)|[O](HanSeokhyeon/Mbti.java)||
 |2022.08.29|프로그래머스|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|1||[O](HanSeokhyeon/CalculateInsufficientCash.java)||
 |2022.08.30|프로그래머스|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|1||||
-|2022.08.31|프로그래머스|[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|1|||스터디|
+|2022.08.31|프로그래머스|[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) /해시/lv2|1|||스터디|
 |2022.09.01|프로그래머스||1||||
 |2022.09.02|프로그래머스||1||||
