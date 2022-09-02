@@ -15,7 +15,7 @@
 |2022.08.31|프로그래머스|[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|1|[틀림](MinJunKim/clothes.js)|[O](HanSeokhyeon/Camouflage.java)||
 |2022.09.01|프로그래머스|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|1||[O](HanSeokhyeon/ReverseTernary.java)|스터디|
 |2022.09.02|프로그래머스|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|1||||
-|2022.09.05|프로그래머스||1||||
+|2022.09.05|프로그래머스|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|1|[O](MinJunKim/findKim.js)|||
 |2022.09.06|프로그래머스||1||||
 |2022.09.07|프로그래머스||1|||스터디|
 |2022.09.08|프로그래머스||1||||
