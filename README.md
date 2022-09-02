@@ -12,6 +12,16 @@
 |2022.08.26|프로그래머스|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|1|[틀림](MinJunKim/MBTI.js)|[O](HanSeokhyeon/Mbti.java)||
 |2022.08.29|프로그래머스|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|1|[O](MinJunKim/needmoremoney.js)|[O](HanSeokhyeon/CalculateInsufficientCash.java)||
 |2022.08.30|프로그래머스|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|1|[틀림](MinJunKim/keypad.js)|[O](HanSeokhyeon/PushKeypad.java)||
-|2022.08.31|프로그래머스|[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|1|||스터디|
-|2022.09.01|프로그래머스|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|1||||
-|2022.09.02|프로그래머스||1||||
+|2022.08.31|프로그래머스|[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|1||[O](HanSeokhyeon/Camouflage.java)||
+|2022.09.01|프로그래머스|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|1||[O](HanSeokhyeon/ReverseTernary.java)|스터디|
+|2022.09.02|프로그래머스|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|1||||
+|2022.09.05|프로그래머스||1||||
+|2022.09.06|프로그래머스||1||||
+|2022.09.07|프로그래머스||1|||스터디|
+|2022.09.08|프로그래머스||1||||
+|2022.09.09|프로그래머스||1||||
+|2022.09.12|프로그래머스||1||||
+|2022.09.13|프로그래머스||1||||
+|2022.09.14|프로그래머스||1|||스터디|
+|2022.09.15|프로그래머스||1||||
+|2022.09.16|프로그래머스||1||||
