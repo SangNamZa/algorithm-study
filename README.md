@@ -16,7 +16,7 @@
 |2022.09.01|프로그래머스|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|1|[O](MinJunKim/numbertothree.js)|[O](HanSeokhyeon/ReverseTernary.java)|스터디|
 |2022.09.02|프로그래머스|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|1|[O](MinJunKim/makeSosu.js)|[O](HanSeokhyeon/MakePrimeNumber.java)||
 |2022.09.05|프로그래머스|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|1|[O](MinJunKim/findKim.js)|[O](HanSeokhyeon/FindKimInSeoul.java)||
-|2022.09.06|프로그래머스|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|1||||
+|2022.09.06|프로그래머스|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|1|[틀림](MinJunKim/reportemail.js)|||
 |2022.09.07|프로그래머스|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|1|||스터디|
 |2022.09.08|프로그래머스||1||||
 |2022.09.09|프로그래머스||1||||
