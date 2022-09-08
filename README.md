@@ -17,8 +17,8 @@
 |2022.09.02|프로그래머스|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|1|[O](MinJunKim/makeSosu.js)|[O](HanSeokhyeon/MakePrimeNumber.java)||
 |2022.09.05|프로그래머스|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|1|[O](MinJunKim/findKim.js)|[O](HanSeokhyeon/FindKimInSeoul.java)||
 |2022.09.06|프로그래머스|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|1|[틀림](MinJunKim/reportemail.js)|[O](HanSeokhyeon/GetReport.java)||
-|2022.09.07|프로그래머스|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|1|[O](MinJunKim/yaksuplus.js)|[O](HanSeokhyeon/NumberOfDivisorAndAddition.java)|스터디|
-|2022.09.08|프로그래머스|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|1||||
+|2022.09.07|프로그래머스|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|1|[O](MinJunKim/yaksuplus.js)|[O](HanSeokhyeon/NumberOfDivisorAndAddition.java)||
+|2022.09.08|프로그래머스|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|1||[O](HanSeokhyeon/NumberStringAndEnglishWord.java)|스터디|
 |2022.09.09|프로그래머스|[[1차]캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|1||||
 |2022.09.12|프로그래머스||1||||
 |2022.09.13|프로그래머스||1||||
