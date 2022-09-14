@@ -20,7 +20,7 @@
 |2022.09.07|프로그래머스|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|1|[O](MinJunKim/yaksuplus.js)|[O](HanSeokhyeon/NumberOfDivisorAndAddition.java)||
 |2022.09.08|프로그래머스|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|1|[O](MinJunKim/numberWord.js)|[O](HanSeokhyeon/NumberStringAndEnglishWord.java)|스터디|
 |2022.09.09|프로그래머스|[[1차]캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|1||[O](HanSeokhyeon/Cache.java)||
-|2022.09.12|프로그래머스|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|1||||
+|2022.09.12|프로그래머스|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|1||[O](HanSeokhyeon/Ponkemon.java)||
 |2022.09.13|프로그래머스|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|1||||
 |2022.09.14|프로그래머스||1||||
 |2022.09.15|프로그래머스||1|||스터디|
