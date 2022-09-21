@@ -24,8 +24,8 @@
 |2022.09.15|프로그래머스|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|1|[틀림](MinJunKim/failrate.js)|[O](HanSeokhyeon/FailRate.java)|스터디|
 |2022.09.16|프로그래머스|[주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|1|[틀림](MinJunKim/parkpay.js)|[O](HanSeokhyeon/ParkingFee.java)||
 |2022.09.19|프로그래머스|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|1|[틀림](MinJunKim/sitaway.js)|[O](HanSeokhyeon/CheckDistancing.java)||
-|2022.09.20|프로그래머스|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|1||||
-|2022.09.21|프로그래머스||1|[O](MinJunKim/lifeboat.js)||스터디|
+|2022.09.20|프로그래머스|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|1|[O](MinJunKim/lifeboat.js)|||
+|2022.09.21|프로그래머스||1|||스터디|
 |2022.09.22|프로그래머스||1||||
 |2022.09.23|프로그래머스||1||||
 |2022.09.26|프로그래머스||1||||
