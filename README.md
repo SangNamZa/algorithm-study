@@ -27,7 +27,7 @@
 |2022.09.20|프로그래머스|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|1|[O](MinJunKim/lifeboat.js)|[O](HanSeokhyeon/Lifeboat.java)||
 |2022.09.21|프로그래머스|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|1|[O](MinJunKim/NaeJuk.js)|[O](HanSeokhyeon/DotProduct.java)|스터디|
 |2022.09.22|프로그래머스|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|1|[O](MinJunKim/OddEven.js)|[O](HanSeokhyeon/EvenAndOdd.java)||
-|2022.09.23|프로그래머스|[다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|1||||
+|2022.09.23|프로그래머스|[다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|1||[O](HanSeokheyon/DartGame.java)||
 |2022.09.26|프로그래머스||1||||
 |2022.09.27|프로그래머스||1||||
 |2022.09.28|프로그래머스||1||||
