@@ -12,9 +12,6 @@
     # : 해당 점수는 마이너스가 된다.
  */
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class DartGame {
 
     public static void main(String[] args) {
@@ -26,8 +23,9 @@ public class DartGame {
     }
 
     public int solution(String dartResult) {
+        int answer = 0;
+        int beforeScore = 0;
         int i = 0;
-        List<Integer> scoreList = new ArrayList<>();
         while (i < dartResult.length()) {
 
             // 점수
@@ -45,14 +43,14 @@ public class DartGame {
                 score *= score * score; // 3제곱
             }
             if (i == dartResult.length()) { // 뒤에 더이상 문자가 없으면 끝
-                scoreList.add(score);
+                answer += score;
                 break;
             }
 
             // 옵션
             if (dartResult.charAt(i) == '*') {
-                if (scoreList.size() > 0) { // 이전 점수가 있으면
-                    scoreList.set(scoreList.size() - 1, scoreList.get(scoreList.size() - 1) * 2); // 2배로 만들어주기
+                if (beforeScore != 0) { // 이전 점수가 있으면
+                    answer += beforeScore; // 2배로 만들어주기
                 }
                 score *= 2; // 현재 점수 2배
                 i++;
@@ -60,10 +58,11 @@ public class DartGame {
                 score *= -1; // 현재 점수 -1배
                 i++;
             }
-
-            // 점수 리스트에 추가
-            scoreList.add(score);
+            
+            // 점수 더하고 이전 점수값 업데이트
+            answer += score;
+            beforeScore = score;
         }
-        return scoreList.stream().mapToInt(Integer::intValue).sum(); // sum
+        return answer;
     }
 }
