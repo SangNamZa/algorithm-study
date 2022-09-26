@@ -30,6 +30,6 @@
 |2022.09.23|프로그래머스|[다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|1|[틀림](MinJunKim/dartgame.js)|[O](HanSeokheyon/DartGame.java)||
 |2022.09.26|프로그래머스|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|1|[O](MinJunKim/hatesamenumber.js)|||
 |2022.09.27|프로그래머스||1||||
-|2022.09.28|프로그래머스||1||||
-|2022.09.29|프로그래머스||1||||
+|2022.09.28|프로그래머스|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|1||||
+|2022.09.29|프로그래머스||1|||스터디|
 |2022.09.30|프로그래머스||1||||
