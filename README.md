@@ -31,5 +31,5 @@
 |2022.09.26|프로그래머스|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|1|[O](MinJunKim/hatesamenumber.js)|[O](HanSeokhyeon/IHateSameNumber.java)||
 |2022.09.27|프로그래머스||1||||
 |2022.09.28|프로그래머스|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|1|[O](MinJunKim/picktwoplustwo.js)|[O](HanSeokhyeon/ChooseTwoNumberAndAdd.java)||
-|2022.09.29|프로그래머스|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|1||[O](HanSeokhyeon/MaxAndMin.java|스터디|
+|2022.09.29|프로그래머스|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|1||[O](HanSeokhyeon/MaxAndMin.java)|스터디|
 |2022.09.30|프로그래머스||1||||
