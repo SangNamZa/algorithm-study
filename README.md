@@ -29,7 +29,7 @@
 |2022.09.22|프로그래머스|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|1|[O](MinJunKim/OddEven.js)|[O](HanSeokhyeon/EvenAndOdd.java)||
 |2022.09.23|프로그래머스|[다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|1|[틀림](MinJunKim/dartgame.js)|[O](HanSeokhyeon/DartGame.java)||
 |2022.09.26|프로그래머스|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|1|[O](MinJunKim/hatesamenumber.js)|[O](HanSeokhyeon/IHateSameNumber.java)||
-|2022.09.27|프로그래머스|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|1||[O](HanSeokhyeon/JadenCase.java)||
+|2022.09.27|프로그래머스|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|1|[O](MinJunKim/jadencase.js)|[O](HanSeokhyeon/JadenCase.java)||
 |2022.09.28|프로그래머스|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|1|[O](MinJunKim/picktwoplustwo.js)|[O](HanSeokhyeon/ChooseTwoNumberAndAdd.java)||
 |2022.09.29|프로그래머스|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|1|[O](MinJunKim/minandmax.js)|[O](HanSeokhyeon/MaxAndMin.java)|스터디|
 |2022.09.30|프로그래머스|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|1||||
