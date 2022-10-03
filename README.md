@@ -35,7 +35,7 @@
 |2022.09.30|프로그래머스|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|1|[O](MinJunKim/changetworepeat.js)|||
 |2022.10.03|프로그래머스|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|1|[O](MinJunKim/makemin.js)|||
 |2022.10.04|프로그래머스|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|1|[틀림](MinJunKim/correct().js)|||
-|2022.10.05|프로그래머스|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|1|||스터디|
+|2022.10.05|프로그래머스|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|1|[O](MinJunKim/lottobestworst.js)||스터디|
 |2022.10.06|프로그래머스|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|1||||
 |2022.10.07|프로그래머스|[]()|1||||
 |2022.10.10|프로그래머스|[]()|1||||
