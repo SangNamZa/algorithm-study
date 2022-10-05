@@ -33,7 +33,7 @@
 |2022.09.28|프로그래머스|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|1|[O](MinJunKim/picktwoplustwo.js)|[O](HanSeokhyeon/ChooseTwoNumberAndAdd.java)||
 |2022.09.29|프로그래머스|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|1|[O](MinJunKim/minandmax.js)|[O](HanSeokhyeon/MaxAndMin.java)|스터디|
 |2022.09.30|프로그래머스|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|1|[O](MinJunKim/changetworepeat.js)|[O](HanSeokhyeon/RepeatBinaryTransformation.java)||
-|2022.10.03|프로그래머스|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|1|[O](MinJunKim/makemin.js)|||
+|2022.10.03|프로그래머스|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|1|[O](MinJunKim/makemin.js)|[O](HanSeokhyeon/MakeMinimum.java)||
 |2022.10.04|프로그래머스|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|1|[틀림](MinJunKim/correct().js)|||
 |2022.10.05|프로그래머스|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|1|[O](MinJunKim/lottobestworst.js)||스터디|
 |2022.10.06|프로그래머스|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|1||||
