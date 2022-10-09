@@ -43,7 +43,7 @@
 |2022.10.11|프로그래머스|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|2||[O](HanSeokhyeon/NextBiggerNumber.java)||
 |2022.10.11|프로그래머스|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|3||||
 |2022.10.12|프로그래머스|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|2||[O](HanSeokhyeon/EnglishWordChainGame.java)||
-|2022.10.12|프로그래머스|[]()|3||||
+|2022.10.12|프로그래머스|[야근 ](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|3||||
 |2022.10.13|프로그래머스|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|2|||스터디|
 |2022.10.13|프로그래머스|[]()|3||||
 |2022.10.14|프로그래머스|[]()|1||||
