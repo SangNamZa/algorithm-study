@@ -38,7 +38,7 @@
 |2022.10.05|프로그래머스|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|1|[O](MinJunKim/lottobestworst.js)|[O](HanSeokhyeon/BestLottoAndWorstLotto.java)|스터디|
 |2022.10.06|프로그래머스|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|1|[O](MinJunKim/recommandnewid.js)|[O](HanSeokhyeon/NewIdRecommendation.java)||
 |2022.10.07|프로그래머스|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|2|[O](MinJunKim/expressnumber.js)|[O](HanSeokhyeon/ExpressionOfNumber.java)||
-|2022.10.10|프로그래머스|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|2||[O](HanSeokhyeon/Pibonaci.java)||
+|2022.10.10|프로그래머스|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|2|[O](MinJunKim/pibo.js)|[O](HanSeokhyeon/Pibonaci.java)||
 |2022.10.10|프로그래머스|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|3||||
 |2022.10.11|프로그래머스|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|2||[O](HanSeokhyeon/NextBiggerNumber.java)||
 |2022.10.11|프로그래머스|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|3||||
