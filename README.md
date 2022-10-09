@@ -45,7 +45,7 @@
 |2022.10.12|프로그래머스|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|2||[O](HanSeokhyeon/EnglishWordChainGame.java)||
 |2022.10.12|프로그래머스|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|3||||
 |2022.10.13|프로그래머스|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|2|||스터디|
-|2022.10.13|프로그래머스|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|3||||
+|2022.10.13|프로그래머스|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|3|||스터디|
 |2022.10.14|프로그래머스|[]()|1||||
 |2022.10.17|프로그래머스|[]()|1||||
 |2022.10.18|프로그래머스|[]()|1||||
