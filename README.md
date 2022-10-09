@@ -39,7 +39,7 @@
 |2022.10.06|프로그래머스|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|1|[O](MinJunKim/recommandnewid.js)|[O](HanSeokhyeon/NewIdRecommendation.java)||
 |2022.10.07|프로그래머스|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|1||[O](HanSeokhyeon/ExpressionOfNumber.java)||
 |2022.10.10|프로그래머스|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|1||[O](HanSeokhyeon/Pibonaci.java)||
-|2022.10.11|프로그래머스|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|1||||
+|2022.10.11|프로그래머스|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|1||[O](HanSeokhyeon/NextBiggerNumber.java)||
 |2022.10.12|프로그래머스|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|1||||
 |2022.10.13|프로그래머스|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|1|||스터디|
 |2022.10.14|프로그래머스|[]()|1||||
