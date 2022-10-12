@@ -40,7 +40,7 @@
 |2022.10.07|프로그래머스|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|2|[O](MinJunKim/expressnumber.js)|[O](HanSeokhyeon/ExpressionOfNumber.java)||
 |2022.10.10|프로그래머스|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|2|[O](MinJunKim/pibo.js)|[O](HanSeokhyeon/Pibonaci.java)||
 |2022.10.10|프로그래머스|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|3||||
-|2022.10.11|프로그래머스|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|2||[O](HanSeokhyeon/NextBiggerNumber.java)||
+|2022.10.11|프로그래머스|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|2|[x](MinJunKim/nextbignumber.js)|[O](HanSeokhyeon/NextBiggerNumber.java)||
 |2022.10.11|프로그래머스|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|3||||
 |2022.10.12|프로그래머스|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|2||[O](HanSeokhyeon/EnglishWordChainGame.java)||
 |2022.10.12|프로그래머스|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|3||||
