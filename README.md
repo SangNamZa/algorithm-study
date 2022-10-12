@@ -42,7 +42,7 @@
 |2022.10.10|프로그래머스|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|3||||
 |2022.10.11|프로그래머스|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|2|[틀림](MinJunKim/nextbignumber.js)|[O](HanSeokhyeon/NextBiggerNumber.java)||
 |2022.10.11|프로그래머스|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|3||||
-|2022.10.12|프로그래머스|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|2||[O](HanSeokhyeon/EnglishWordChainGame.java)||
+|2022.10.12|프로그래머스|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|2|[틀림](MinJunKim/connectlastword.js)|[O](HanSeokhyeon/EnglishWordChainGame.java)||
 |2022.10.12|프로그래머스|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|3||||
 |2022.10.13|프로그래머스|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|2|||스터디|
 |2022.10.13|프로그래머스|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|3|||스터디|
