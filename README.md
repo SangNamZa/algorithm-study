@@ -44,8 +44,8 @@
 |2022.10.11|프로그래머스|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|3||||
 |2022.10.12|프로그래머스|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|2|[틀림](MinJunKim/connectlastword.js)|[O](HanSeokhyeon/EnglishWordChainGame.java)||
 |2022.10.12|프로그래머스|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|3||[O](HanSeokhyeon/NightOvertimeIndex.java)||
-|2022.11.04|프로그래머스|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|2|[틀림](MinJunKim/pairremove.js)|[O](HanSeokhyeon/RemoveRepeat.java)|스터디|
-|2022.11.04|프로그래머스|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|3|||스터디|
+|2022.11.04|프로그래머스|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|2|[틀림](MinJunKim/pairremove.js)|[O](HanSeokhyeon/RemoveRepeat.java)||
+|2022.11.04|프로그래머스|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|3||||
 |2022.11.07|프로그래머스|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|2|[O](MinJunKim/getGCDLCM.js)|||
 |2022.11.07|프로그래머스|[]()|1||||
 |2022.11.08|프로그래머스|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|2|[O](MinJunKim/tournamentexpect.js)|||
@@ -54,5 +54,5 @@
 |2022.11.09|프로그래머스|[]()|1||||
 |2022.11.10|프로그래머스|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|1||||
 |2022.11.10|프로그래머스|[]()|1||||
-|2022.11.11|프로그래머스|[H-INDEX](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|1||||
-|2022.11.11|프로그래머스|[]()|1||||
+|2022.11.11|프로그래머스|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|1|||스터디|
+|2022.11.11|프로그래머스|[]()|1|||스터디|
