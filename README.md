@@ -52,7 +52,7 @@
 |2022.11.08|프로그래머스|[]()|1||||
 |2022.11.09|프로그래머스|[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|2|[O](MinJunKim/jumpandteleport.js)|||
 |2022.11.09|프로그래머스|[]()|1||||
+|2022.11.10|프로그래머스|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|1||||
 |2022.11.10|프로그래머스|[]()|1||||
-|2022.11.10|프로그래머스|[]()|1||||
-|2022.11.11|프로그래머스|[]()|1||||
+|2022.11.11|프로그래머스|[H-INDEX](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|1||||
 |2022.11.11|프로그래머스|[]()|1||||
