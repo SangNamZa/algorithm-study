@@ -48,7 +48,7 @@
 |2022.11.04|프로그래머스|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|3|||스터디|
 |2022.11.07|프로그래머스|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|2|[O](MinJunKim/getGCDLCM.js)|||
 |2022.11.07|프로그래머스|[]()|1||||
-|2022.11.08|프로그래머스|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|2||||
+|2022.11.08|프로그래머스|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|2|[O](MinJunKim/tournamentexpect.js)|||
 |2022.11.08|프로그래머스|[]()|1||||
 |2022.11.09|프로그래머스|[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|2||||
 |2022.11.09|프로그래머스|[]()|1||||
