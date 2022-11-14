@@ -54,7 +54,7 @@
 |2022.11.09|프로그래머스|[]()|1||||
 |2022.11.10|프로그래머스|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|2|[O](MinJunKim/jumpfar.js)|[O](HanSeokhyeon/TheLongJump.java)||
 |2022.11.10|프로그래머스|[]()|1||||
-|2022.11.11|프로그래머스|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|2|[O](MinJunKim/h-index.js)|||
+|2022.11.11|프로그래머스|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|2|[O](MinJunKim/h-index.js)|[O](HanSeokhyeon/H_Index.java)||
 |2022.11.11|프로그래머스|[]()|1||||
 |2022.11.14|프로그래머스|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|2||||
 |2022.11.14|프로그래머스|[]()|1||||
