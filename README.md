@@ -57,5 +57,10 @@
 |2022.11.11|프로그래머스|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|2|[O](MinJunKim/h-index.js)|[O](HanSeokhyeon/H_Index.java)||
 |2022.11.11|프로그래머스|[]()|1||||
 |2022.11.14|프로그래머스|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|2|[X](MinJunKim/matrixtimes.js)||스터디|
-|2022.11.14|프로그래머스|[]()|1||||
+|2022.11.15|프로그래머스|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|2||||
+|2022.11.16|프로그래머스|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|2||||
+|2022.11.17|프로그래머스|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|2||||
+|2022.11.18|프로그래머스|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|2||||
+
+
 
