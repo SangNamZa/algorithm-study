@@ -61,5 +61,6 @@
 |2022.11.16|프로그래머스|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|2||||
 |2022.11.17|프로그래머스|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|2||||
 |2022.11.18|프로그래머스|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|2||||
+|2022.11.21|프로그래머스|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|2||||
 
 
