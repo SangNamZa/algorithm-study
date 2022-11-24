@@ -63,8 +63,8 @@
 |2022.11.18|프로그래머스|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|2||||
 |2022.11.21|프로그래머스|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|2||||
 |2022.11.22|프로그래머스|[[1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|2||||
-|2022.11.23|프로그래머스|[타겟 넘버]()|2||||
-|2022.11.24|프로그래머스|[k진수에서 소수 개수 구하기]()|2||||
-|2022.11.25|프로그래머스|[주차 요금 계산]()|2||||
+|2022.11.23|프로그래머스|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|2||||
+|2022.11.24|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|2||||
+|2022.11.25|프로그래머스|[주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|2||||
 
 
