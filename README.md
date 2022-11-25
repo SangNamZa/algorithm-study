@@ -56,7 +56,7 @@
 |2022.11.16|프로그래머스|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|2|[X](MinJunKim/tuple.js)|||
 |2022.11.17|프로그래머스|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|2|[X](MinJunKim/techdevelop.js)|||
 |2022.11.18|프로그래머스|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|2|[X](MinJunKim/slicearray.js)|||
-|2022.11.21|프로그래머스|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|2||||
+|2022.11.21|프로그래머스|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|2|[X](MinJunKim/printer.js)|||
 |2022.11.22|프로그래머스|[[1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|2||||
 |2022.11.23|프로그래머스|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|2||||
 |2022.11.24|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|2||||
