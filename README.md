@@ -58,7 +58,7 @@
 |2022.11.18|프로그래머스|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|2|[X](MinJunKim/slicearray.js)|[O](HanSeokhyeon/CutArray.java)||
 |2022.11.21|프로그래머스|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|2|[X](MinJunKim/printer.js)|[O](HanSeokhyeon/Printer.java)||
 |2022.11.29|프로그래머스|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|1||[O](HanSeokhyeon/TheThreeMusketeers.java)|스터디|
-|2022.11.30|프로그래머스|[[1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|2||||
+|2022.11.30|프로그래머스|[[1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|2||[O](HanSeokhyeon/NewsClustering.java)||
 |2022.12.01|프로그래머스|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|2||||
 |2022.12.02|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|2||||
 |2022.12.05|프로그래머스|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|2||||
