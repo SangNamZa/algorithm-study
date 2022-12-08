@@ -3,7 +3,7 @@ function solution(str1, str2) {
     let answer = 0
     // str1 split, 2 split
     // i length 만큼 i,i+1을 push
-    // A + B 에서 A-교집합+B를 하면 합집합
+    // A-교집합+B를 하면 합집합
     str1 = str1.toLowerCase()
     str2 = str2.toLowerCase()
     let A = str1.split('')
