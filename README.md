@@ -62,6 +62,6 @@
 |2022.12.01|프로그래머스|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|2|[X](MinJunKim/targetnumber.js)|[O](HanSeokhyeon/TargetNumber.java)||
 |2022.12.02|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|2||||
 |2022.12.05|프로그래머스|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|2||||
-|2022.12.09|프로그래머스|[가장 가까우 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|2||||
+|2022.12.09|프로그래머스|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|2||[O](HanSeokhyeon/TheNearestCharacter.java)||
 
 
