@@ -63,4 +63,5 @@
 |2022.12.09|프로그래머스|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|1|[O](MinJunKim/closenumber.js)|[O](HanSeokhyeon/TheNearestCharacter.java)|스터디|
 |2022.12.12|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|2|[X](MinJunKim/kjinsuprime.js)|[O](HanSeokhyeon/NumberOfPrimeNumber.java)||
 |2022.12.13|프로그래머스|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|2|[X](MinJunKim/thirdzip.js)|||
+|2022.12.14|프로그래머스|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|2|[X](MinJunKim/thirdzip.js)|||
 
