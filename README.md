@@ -61,7 +61,6 @@
 |2022.11.30|프로그래머스|[[1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|2|[X](MinJunKim/newsclustering.js)|[O](HanSeokhyeon/NewsClustering.java)||
 |2022.12.01|프로그래머스|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|2|[X](MinJunKim/targetnumber.js)|[O](HanSeokhyeon/TargetNumber.java)||
 |2022.12.09|프로그래머스|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|1|[O](MinJunKim/closenumber.js)|[O](HanSeokhyeon/TheNearestCharacter.java)|스터디|
-|2022.12.12|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|2||[O](HanSeokhyeon/NumberOfPrimeNumber.java)||
+|2022.12.12|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|2|[O](MinJunKim/kjinsuprime.js)|[O](HanSeokhyeon/NumberOfPrimeNumber.java)||
 |2022.12.13|프로그래머스|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|2||||
-
 
