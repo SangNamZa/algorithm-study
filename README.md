@@ -64,5 +64,5 @@
 |2022.12.12|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|2|[X](MinJunKim/kjinsuprime.js)|[O](HanSeokhyeon/NumberOfPrimeNumber.java)||
 |2022.12.13|프로그래머스|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|2|[X](MinJunKim/thirdzip.js)|||
 |2022.12.14|프로그래머스|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|1|[O](MinJunKim/foodfight.js)|[O](HanSeokhyeon/FoodFight.java)||
-|2022.12.15|프로그래머스|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|||
+|2022.12.15|프로그래머스|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[O](MinJunKim/openchatting.js)||
 |2022.12.16|프로그래머스|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|||
