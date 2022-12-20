@@ -9,8 +9,8 @@ public class NumberOfPrimeNumber {
     }
 
     public int solution(int n, int k) {
-        String kBase = getKBase(n, k); // k진수로 변환 -> 211020101011
-        String[] targetNumbers = kBase.split("0"); // ["211", "2", "1", "1", "11"]
+        String kBase = getKBase(n, k); // k진수로 변환 -> 2110020101011
+        String[] targetNumbers = kBase.split("0"); // ["211", "", "2", "1", "1", "11"]
 
         int answer = 0;
         for (String targetNumber : targetNumbers) {
