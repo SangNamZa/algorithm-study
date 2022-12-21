@@ -66,4 +66,5 @@
 |2022.12.14|프로그래머스|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|1|[O](MinJunKim/foodfight.js)|[O](HanSeokhyeon/FoodFight.java)||
 |2022.12.15|프로그래머스|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|2|[O](MinJunKim/openchatting.js)|[O](HanSeokhyeon/OpenChatRoom.java)||
 |2022.12.16|프로그래머스|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|2|[X](MinJunKim/pirodo.js)|
-|2022.12.20|프로그래머스|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|1|[O](MinJunKim/cola.js)|[O](HanSeokhyeon/CokeQuiz.java)||
+|2022.12.20|프로그래머스|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|1|[O](MinJunKim/cola.js)|[O](HanSeokhyeon/CokeQuiz.java)|스터디|
+|2022.12.20|프로그래머스|[[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|1||||
