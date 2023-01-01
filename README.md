@@ -70,3 +70,4 @@
 |2022.12.21|프로그래머스|[[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|2|[O](MinJunKim/njinsugame.js)|||
 |2022.12.22|프로그래머스|[귤고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|2|[X](MinJunKim/tangerine.js)|||
 |2022.12.23|프로그래머스|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|2||||
+|2023.01.02|프로그래머스|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|2||||
