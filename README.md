@@ -68,7 +68,7 @@
 |2022.12.16|프로그래머스|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|2|[X](MinJunKim/pirodo.js)|
 |2022.12.20|프로그래머스|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|1|[O](MinJunKim/cola.js)|[O](HanSeokhyeon/CokeQuiz.java)|스터디|
 |2022.12.21|프로그래머스|[[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|2|[O](MinJunKim/njinsugame.js)|[O](HanSeokhyeon/NBaseGame.java)||
-|2022.12.22|프로그래머스|[귤고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|2|[X](MinJunKim/tangerine.js)|||
+|2022.12.22|프로그래머스|[귤고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|2|[X](MinJunKim/tangerine.js)|[O](HanSeokhyeon/Tangerine.java)||
 |2022.12.23|프로그래머스|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|2|[O](MinJunKim/skilltree.js)|||
 |2023.01.02|프로그래머스|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|2|[X](MinJunKim/eatddang.js)|||
 |2023.01.03|프로그래머스|[크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|1|[O](MinJunKim/smallerpartnumber.js)|||
